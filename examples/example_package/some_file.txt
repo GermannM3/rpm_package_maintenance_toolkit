@@ -1,0 +1,3 @@
+# examples/example_package/some_file.txt
+
+Это пример текстового файла, который будет упакован в RPM пакет.
